@@ -8,4 +8,4 @@ function subtract(a, b) {
 }
 
 console.log(add(1, 2));
-console.log(subtract(4, 1));
+console.log(subtract(6, 2));
