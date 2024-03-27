@@ -2,6 +2,4 @@
 
 This is for experimenting with git rebase.
 
-This line was added in feat2.
-
-This line was added in feat3.
+This line was added directly in main.
